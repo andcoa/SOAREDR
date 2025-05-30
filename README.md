@@ -6,7 +6,7 @@ Design and implement a modular SOAR-EDR playbook workflow that detects suspiciou
 
 ## Skills Learned
 
-- **Playbook Design**: Mapped out end-to-end SOAR logic—detection, escalation, notification, and containment—in a clear workflow.
+- **Playbook Design**: Mapped out end-to-end SOAR logic, detection, escalation, notification, and containment in a clear workflow.
 - **EDR Integration**: Configured LimaCharlie to detect a “hack tool” event and forward alerts programmatically.
 - **SOAR Orchestration**: Utilized Tines to receive detections, branch logic, and invoke downstream actions.
 - **Notification Engineering**: Structured Slack and email messages to include key telemetry (timestamp, hostname, source IP, process command line, file path, sensor ID, detection link).
