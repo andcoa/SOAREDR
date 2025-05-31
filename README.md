@@ -17,5 +17,5 @@ Design and implement a modular SOAR-EDR playbook workflow that detects suspiciou
 - **LimaCharlie**: Cloud-native EDR for event detection.
 - **Tines**: SOAR platform for playbook orchestration.
 - **Slack & Email**: Channels for alert notification.
-- **draw.io**: Diagramming for workflow visualization.
+- **Virtualbox**: Hosting Virtual Machines.
 - **JSON**: Export format for playbook definitions.
