@@ -14,8 +14,8 @@ Design and implement a modular SOAR-EDR playbook workflow that detects suspiciou
 
 ## Tools Used
 
-- **LimaCharlie**: cloud-native EDR for event detection
-- **Tines**: SOAR platform for playbook orchestration
-- **Slack & Email**: channels for alert notification
-- **draw.io**: diagramming for workflow visualization
-- **JSON**: export format for playbook definitions
+- **LimaCharlie**: Cloud-native EDR for event detection.
+- **Tines**: SOAR platform for playbook orchestration.
+- **Slack & Email**: Channels for alert notification.
+- **draw.io**: Diagramming for workflow visualization.
+- **JSON**: Export format for playbook definitions.
