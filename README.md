@@ -19,3 +19,8 @@ Design and implement a modular SOAR-EDR playbook workflow that detects suspiciou
 - **Slack & Email**: Channels for alert notification.
 - **Virtualbox**: Hosting Virtual Machines.
 - **JSON**: Export format for playbook definitions.
+
+## Steps
+
+![image](https://github.com/user-attachments/assets/b4b38889-980b-483a-9caf-0498a3fa86f0)
+
