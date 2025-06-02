@@ -14,6 +14,7 @@ Design and implement a modular SOAR-EDR playbook workflow that detects suspiciou
 
 ## Tools Used
 
+- **Vultr**: Cloud servoce for hosting the Windows 10 VM.
 - **LimaCharlie**: Cloud-native EDR for event detection.
 - **Tines**: SOAR platform for playbook orchestration.
 - **Slack & Email**: Channels for alert notification.
@@ -21,6 +22,8 @@ Design and implement a modular SOAR-EDR playbook workflow that detects suspiciou
 - **JSON**: Export format for playbook definitions.
 
 ## Steps
+
+Designed the architecture of the SOAR EDR using draw.io.
 
 ![image](https://github.com/user-attachments/assets/b4b38889-980b-483a-9caf-0498a3fa86f0)
 
