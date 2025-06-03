@@ -71,4 +71,5 @@ Creawted a new rule in LimaCharlie to detect the use of Lazagne as per the follo
 
 ![image](https://github.com/user-attachments/assets/5bf1ee86-d55b-4919-9d33-1617fb677c8e)
 
+![image](https://github.com/user-attachments/assets/42953335-9bbb-46b4-8886-9d0fbd3341b2)
 
