@@ -49,4 +49,10 @@ Downloaded and installed the LimaCharlie sensor on the Windows 10 VM.
 
 ![image](https://github.com/user-attachments/assets/e2aca47e-7c15-4ddd-a3fd-e181f7c0f08b)
 
+![image](https://github.com/user-attachments/assets/c8646535-8ae6-42ca-bd34-be6fca10309c)
+
+LimaCharlie confirms the installation on the Windows 10 VM.
+
+![image](https://github.com/user-attachments/assets/85beaebf-55dd-4201-9a35-9fb6fbdea66d)
+
 
