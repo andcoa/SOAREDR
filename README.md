@@ -77,6 +77,20 @@ The rule succesfully executed and confirmed the event above was captured.
 
 ![image](https://github.com/user-attachments/assets/655a1e39-9de1-4efc-b846-82fd6b537718)
 
-After executing Lazagne again, two detections were captured by the role.
+After executing Lazagne again, two detections were captured by the rule.
 
 ![image](https://github.com/user-attachments/assets/4f975882-2296-4738-820c-3aa24d92cbaf)
+
+Created a new Slack organization and a channel named "alerts".
+
+![image](https://github.com/user-attachments/assets/84646f2d-27f5-4b0a-a95f-28c7d6c31e16)
+
+Created a Tines account and added a Webhook, which was then used to create a LimaCharlie configuration using the Webhook URL.
+
+![image](https://github.com/user-attachments/assets/4c39e948-a89a-48b9-8ad1-59a4173292cc)
+
+![image](https://github.com/user-attachments/assets/8308b9c7-1940-423b-b471-410083aa2a10)
+
+![image](https://github.com/user-attachments/assets/4e018a5f-c8d2-4523-98d4-232c08086790)
+
+
