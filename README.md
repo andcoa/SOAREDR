@@ -67,3 +67,8 @@ The telemetry is available in LimaCharlie.
 
 ![image](https://github.com/user-attachments/assets/dfaae889-45ad-4cf3-8724-1cccc3e92b03)
 
+Creawted a new rule in LimaCharlie to detect the use of Lazagne as per the following parameters:
+
+![image](https://github.com/user-attachments/assets/5bf1ee86-d55b-4919-9d33-1617fb677c8e)
+
+
