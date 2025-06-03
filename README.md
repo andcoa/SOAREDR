@@ -55,4 +55,15 @@ LimaCharlie confirms the installation on the Windows 10 VM.
 
 ![image](https://github.com/user-attachments/assets/85beaebf-55dd-4201-9a35-9fb6fbdea66d)
 
+Installed the LaZagne Project (password recovery tool) to generate telemetry by running it in Powershell.
+
+![image](https://github.com/user-attachments/assets/2fb9485b-7250-45db-bffe-4e954218ff39)
+
+![image](https://github.com/user-attachments/assets/eab1974b-ef57-47ed-ba55-dff4009f34d6)
+
+The telemetry is available in LimaCharlie.
+
+![image](https://github.com/user-attachments/assets/a304f4de-9969-4986-ae23-de7b4ab42e7a)
+
+![image](https://github.com/user-attachments/assets/8ea0a630-7ba5-49a3-bfef-0ac278602b34)
 
