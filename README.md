@@ -65,5 +65,5 @@ The telemetry is available in LimaCharlie.
 
 ![image](https://github.com/user-attachments/assets/a304f4de-9969-4986-ae23-de7b4ab42e7a)
 
-![image](https://github.com/user-attachments/assets/a40fa989-2006-4635-a191-15b5e407d732)
+![image](https://github.com/user-attachments/assets/dfaae889-45ad-4cf3-8724-1cccc3e92b03)
 
