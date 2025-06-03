@@ -77,3 +77,6 @@ The rule succesfully executed and confirmed the event above was captured.
 
 ![image](https://github.com/user-attachments/assets/655a1e39-9de1-4efc-b846-82fd6b537718)
 
+After executing Lazagne again, two detections were captured by the role.
+
+![image](https://github.com/user-attachments/assets/4f975882-2296-4738-820c-3aa24d92cbaf)
