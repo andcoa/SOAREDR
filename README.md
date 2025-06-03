@@ -59,7 +59,7 @@ Installed the LaZagne Project (password recovery tool) to generate telemetry by 
 
 ![image](https://github.com/user-attachments/assets/2fb9485b-7250-45db-bffe-4e954218ff39)
 
-![image](https://github.com/user-attachments/assets/eab1974b-ef57-47ed-ba55-dff4009f34d6)
+![image](https://github.com/user-attachments/assets/9c29dde8-9a44-4523-a389-f031ba364690)
 
 The telemetry is available in LimaCharlie.
 
