@@ -27,3 +27,7 @@ Designed the architecture of the SOAR EDR using draw.io.
 
 ![image](https://github.com/user-attachments/assets/b4b38889-980b-483a-9caf-0498a3fa86f0)
 
+Deployed a Windows 10 VM in Vultr using the lowest plan available (to keep costs within the free trial).
+
+![image](https://github.com/user-attachments/assets/35d3a82c-f171-4073-a414-9827885ec09f)
+
