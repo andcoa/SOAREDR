@@ -85,7 +85,7 @@ Created a new Slack organization and a channel named "alerts".
 
 ![image](https://github.com/user-attachments/assets/84646f2d-27f5-4b0a-a95f-28c7d6c31e16)
 
-Created a Tines account and added a Webhook, which was then used to create a LimaCharlie Output configuration using the Webhook URL.
+Created a Tines account and added a Webhook, which was then used to create a LimaCharlie output configuration using the Webhook URL.
 
 ![image](https://github.com/user-attachments/assets/4c39e948-a89a-48b9-8ad1-59a4173292cc)
 
