@@ -97,4 +97,13 @@ Connected Slack to Tines to send/receive messages.
 
 ![image](https://github.com/user-attachments/assets/a712f61c-ea1d-474a-922e-99ca535a2d12)
 
+Used the ChannelD from Slack to connect it with the Tines template.
+
+![image](https://github.com/user-attachments/assets/7d3c414d-63f3-4c1e-822f-3b135faabd4d)
+
+Slack is now connected to Tines and can receive messages.
+
+![image](https://github.com/user-attachments/assets/f1acd583-9517-4fb8-824e-2b49f6ab5632)
+
+
 
