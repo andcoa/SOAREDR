@@ -93,5 +93,8 @@ Created a Tines account and added a Webhook, which was then used to create a Lim
 
 ![image](https://github.com/user-attachments/assets/41b162c9-6bb1-4a68-a240-af675c7e5dbd)
 
+Connected Slack to Tines to send/receive messages.
+
+![image](https://github.com/user-attachments/assets/a712f61c-ea1d-474a-922e-99ca535a2d12)
 
 
