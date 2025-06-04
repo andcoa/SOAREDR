@@ -173,7 +173,8 @@ Received the Slack message confirming the Windows 10 VM was isolated and email w
 
 Final workflow:
 
-![image](https://github.com/user-attachments/assets/f7c848cd-fdfe-4fb4-8d4b-04105bf15a4c)
+![image](https://github.com/user-attachments/assets/1f4455a4-ecda-49c9-8089-8645a68d47c3)
+
 
 
 
