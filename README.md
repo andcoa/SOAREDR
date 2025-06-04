@@ -105,5 +105,20 @@ Slack is now connected to Tines and can receive messages.
 
 ![image](https://github.com/user-attachments/assets/f1acd583-9517-4fb8-824e-2b49f6ab5632)
 
+Set up the "Send Email" template and successfully sent an email from Tines.
+
+![image](https://github.com/user-attachments/assets/156fdb9a-e089-465b-9174-723a378a6c09)
+
+![image](https://github.com/user-attachments/assets/9f7046c5-5883-499d-a279-9424b87f3bbd)
+
+Created a user prompt page to allow the admin to isolate machines if needed:
+
+![image](https://github.com/user-attachments/assets/bcbf5574-ad8b-44b7-81a1-47c14d3d57f5)
+
+Copied the values of the received data in the Webhook over in to Slack -> Message:
+
+![image](https://github.com/user-attachments/assets/dc4be0e9-c9bb-4998-a992-30f9078c4449)
+
+![image](https://github.com/user-attachments/assets/b2964e94-f2d7-4275-b13c-38744043a4ae)
 
 
