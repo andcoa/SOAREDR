@@ -141,9 +141,39 @@ Added a Trigger in Tines to send a Slack message when the user selects "No" as a
 
 ![image](https://github.com/user-attachments/assets/c20a7662-e8f8-474a-8406-70ab8b712bba)
 
-Repeated the same process to add a Trigger when selecting "Yes".
+Repeated the same process to add a Trigger when selecting "Yes" and a LimaCharlie action to isolate the machine based on the response.
 
+![image](https://github.com/user-attachments/assets/8c764030-bc99-4739-b1f4-f91843eb4a1f)
 
+Used the Organization API found in LimaCharlie to connect it to the new Tines action.
+
+![image](https://github.com/user-attachments/assets/23700ed0-38df-4f8b-a6b9-746570e9a74b)
+
+![image](https://github.com/user-attachments/assets/a6460366-62ad-43f7-9f27-6693f3a632cc)
+
+When re-emiting the event in the User Prompt and triggering the "Yes" action, the machine was isolated in LimaCharlie.
+
+![image](https://github.com/user-attachments/assets/a1e17005-b81c-4195-8030-a5f173f2a3fd)
+
+The Windows 10 VM is unable to interact with outside services after being isolated.
+
+![image](https://github.com/user-attachments/assets/e9a9e5b9-4067-4dd1-942f-df0810aa0f51)
+
+Added two a LimaCharlie action to get the isolation status of the machine into Tines and Slack action to receive the status.
+
+![image](https://github.com/user-attachments/assets/406970b4-bf81-437e-b1ff-14064693d572)
+
+![image](https://github.com/user-attachments/assets/acf8277c-1ba7-4b52-b0ba-f0d7207c4633)
+
+Received the Slack message confirming the Windows 10 VM was isolated and email with the details of the alert.
+
+![image](https://github.com/user-attachments/assets/29e0e347-02c8-4186-af03-858a56c45988)
+
+![image](https://github.com/user-attachments/assets/8ae5bdf8-6b3a-4f01-b64b-46502a24f568)
+
+Final workflow:
+
+![image](https://github.com/user-attachments/assets/f7c848cd-fdfe-4fb4-8d4b-04105bf15a4c)
 
 
 
