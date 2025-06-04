@@ -121,9 +121,28 @@ Copied the body values from the LimaCharlie webhook data in Tines over to Slack 
 
 ![image](https://github.com/user-attachments/assets/37e35e20-7b2f-4fbb-b9a1-8b830a93bfb2)
 
-Slack successfully received the LimaCharlie information from the Tines webhook:
+Slack successfully received the LimaCharlie alert from the Tines webhook:
 
 ![image](https://github.com/user-attachments/assets/9638c963-d5a5-4c3c-a830-e24cbe7330d2)
+
+Completed the same process for Send Email action and successfully received an email with the alert:
+
+![image](https://github.com/user-attachments/assets/3a462f12-1e40-4b98-9713-78afea09d6b2)
+
+![image](https://github.com/user-attachments/assets/7a4ee4ee-1d27-440e-99cc-e6d1283c6368)
+
+Completed the same process for the User Prompt action as well and it succesfully created an interactive page for the analyst receiving the alert:
+
+![image](https://github.com/user-attachments/assets/215aad2b-1886-4525-a474-9c0a51e96480)
+
+Added a Trigger in Tines to send a Slack message when the user selects "No" as an input. Slack successfully received the message.
+
+![image](https://github.com/user-attachments/assets/dd017682-52f0-47ea-ae9c-bbcfc84bba17)
+
+![image](https://github.com/user-attachments/assets/c20a7662-e8f8-474a-8406-70ab8b712bba)
+
+Repeated the same process to add a Trigger when selecting "Yes".
+
 
 
 
