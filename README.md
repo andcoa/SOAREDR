@@ -115,10 +115,13 @@ Created a user prompt page to allow the admin to isolate machines if needed:
 
 ![image](https://github.com/user-attachments/assets/bcbf5574-ad8b-44b7-81a1-47c14d3d57f5)
 
-Copied the values of the received data in the Webhook over in to Slack -> Message:
+Copied the values of the received LimaCharlie data in the Tines webhook over to Slack -> Message:
 
 ![image](https://github.com/user-attachments/assets/dc4be0e9-c9bb-4998-a992-30f9078c4449)
 
 ![image](https://github.com/user-attachments/assets/b2964e94-f2d7-4275-b13c-38744043a4ae)
 
+Slack successfully received the LimaCharlie information from the Tines webhook:
+
+![image](https://github.com/user-attachments/assets/f97d73a3-668b-4eed-8b69-e7b143b927b9)
 
