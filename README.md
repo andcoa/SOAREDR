@@ -91,6 +91,7 @@ Created a Tines account and added a Webhook, which was then used to create a Lim
 
 ![image](https://github.com/user-attachments/assets/8308b9c7-1940-423b-b471-410083aa2a10)
 
-![image](https://github.com/user-attachments/assets/4e018a5f-c8d2-4523-98d4-232c08086790)
+![image](https://github.com/user-attachments/assets/41b162c9-6bb1-4a68-a240-af675c7e5dbd)
+
 
 
