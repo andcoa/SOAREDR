@@ -175,9 +175,6 @@ Final workflow:
 
 ![image](https://github.com/user-attachments/assets/1f4455a4-ecda-49c9-8089-8645a68d47c3)
 
-![Your first story-storyboard](https://github.com/user-attachments/assets/e00dc75c-df16-42ef-8d64-4b8a10346c67)
-
-
 
 
 
