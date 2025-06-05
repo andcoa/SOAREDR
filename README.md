@@ -17,8 +17,7 @@ Design and implement a modular SOAR-EDR playbook workflow that detects suspiciou
 - **Vultr**: Cloud servoce for hosting the Windows 10 Server VM.
 - **LimaCharlie**: Cloud-native EDR for event detection.
 - **Tines**: SOAR platform for playbook orchestration.
-- **Slack & Email**: Channels for alert notification.
-- **Virtualbox**: Hosting Virtual Machines.
+- **Slack & Gmail**: Channels for alert notification.
 - **JSON**: Export format for playbook definitions.
 
 ## Steps
